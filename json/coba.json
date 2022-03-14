@@ -1,0 +1,24 @@
+[
+  {
+    "nama": "anya",
+    "umur": 17,
+    "nrp": "1283",
+    "lulus": "true",
+    "hobby": ["mencintai cowo fiksi", "mencintai laki laki yang tidak bisa digapai", "galau", "tidur", "menyanyi", "makan"],
+    "pembimbing": {
+      "pembimbing1": "pak Tri",
+      "pembimbing2": "pak Dian"
+    }
+  },
+  {
+    "nama": "anya",
+    "umur": 17,
+    "nrp": "1283",
+    "lulus": "true",
+    "hobby": ["mencintai cowo fiksi", "mencintai laki laki yang tidak bisa digapai", "galau", "tidur", "menyanyi", "makan"],
+    "pembimbing": {
+      "pembimbing1": "pak Tri",
+      "pembimbing2": "pak Dian"
+    }
+  }
+]
